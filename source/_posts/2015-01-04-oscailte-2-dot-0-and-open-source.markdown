@@ -6,7 +6,7 @@ comments: true
 categories: [Web Development, Open Source, Octopress]
 description: "Front-end performance can be incredibly tricky at times. Here's some advice to help you get started in the right direction!"
 facebook:
-    image: http://www.gravatar.com/avatar/e7e5cb5a71155eb1409a8d84d52726c1.jpg?s=250
+    image: https://www.gravatar.com/avatar/e7e5cb5a71155eb1409a8d84d52726c1.jpg?s=250
     type: article
 ---
 
@@ -64,7 +64,7 @@ respective components and sections.
 
 <h2 class="title--indent">Octopress 3 and Open Source</h2>
 So, with [Octopress 3][10] just around the corner, I do have plans to migrate
-Oscailte over to support it. I have no idea how much work is involced in doing
+Oscailte over to support it. I have no idea how much work is involved in doing
 so, I haven't even had the time to sit down and check out Octopress 3 for myself,
 but it will happen. If there's one thing that this project has done for me, it's
 help bolster my love for Open Source and make me want to keep giving back!
